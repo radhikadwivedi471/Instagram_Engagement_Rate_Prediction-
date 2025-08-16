@@ -1,5 +1,5 @@
 # Instagram_Engagement_Rate_Prediction-
-This project is based on deep learning aims to predict Instagram post engagement, specifically the number of likes, using different types of input data. Three models will be developed:
+This project is based on deep learning aims to predict Instagram post engagement, specifically the number of likes, using different types of input data. Three models are developed:
 
 1. A tabular-only model using features such as follower count, verified status, and posting time.
 
